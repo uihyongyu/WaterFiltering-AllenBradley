@@ -1,2 +1,3 @@
 # WaterFiltering-AllenBradley
-Using AB RSlogix500 with LD language, build a simple filtering system for water source
+Using AB RSLogix500 with LD language, build a simple filtering system for water source
+simulate with RSLink and RSLogix Emulate500
